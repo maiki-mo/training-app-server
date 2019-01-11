@@ -1,0 +1,53 @@
+{
+  "weeks": [
+    {
+      "week": "one",
+      "date": "dec 31 - jan - 6",
+      "finished": false,
+      "workouts": [
+        {
+          "day": "monday",
+          "distance": 3,
+          "completed": false,
+          "completedDistance": 0
+        },
+        {
+          "day": "tuesday",
+          "distance": 3,
+          "completed": false,
+          "completedDistance": 0
+        },
+        {
+          "day": "wednesday",
+          "distance": 3,
+          "completed": false,
+          "completedDistance": 0
+        },
+        {
+          "day": "thursday",
+          "distance": 3,
+          "completed": false,
+          "completedDistance": 0
+        },
+        {
+          "day": "friday",
+          "distance": 3,
+          "completed": false,
+          "completedDistance": 0
+        },
+        {
+          "day": "saturday",
+          "distance": 3,
+          "completed": false,
+          "completedDistance": 0
+        },
+        {
+          "day": "sunday",
+          "distance": 3,
+          "completed": false,
+          "completedDistance": 0
+        }
+      ]
+    }
+  ]
+}
